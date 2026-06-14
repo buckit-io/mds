@@ -1,7 +1,7 @@
 {
   "name": "mds",
   "version": "1.1.2",
-  "description": "A MinIO Components Library",
+  "description": "Buckit component library (MDS fork)",
   "homepage": ".",
   "license": "AGPL-3.0-or-later",
   "main": "dist/esm/index.js",
