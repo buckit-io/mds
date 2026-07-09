@@ -2,6 +2,11 @@
 
 The MinIO Design System is a design specification for all UI elements used in MinIO products.
 
+> [!NOTE]
+> This repository is forked from the original open source MinIO `mds` project and is maintained
+> by Buckit project. See the LICENSE and NOTICE files for licensing and attribution
+> information.
+
 ## How to test
 
 You can test this package using the embedded storybook. Please follow these steps:
